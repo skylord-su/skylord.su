@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#140d08"/>
+      <stop offset="1" stop-color="#241608"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0c46b"/>
+      <stop offset="1" stop-color="#c9793f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <path d="M600 160L740 245V415L600 500L460 415V245L600 160Z" fill="url(#g)" opacity="0.92"/>
+  <path d="M600 245L668 285V375L600 415L532 375V285L600 245Z" fill="#140d08" opacity="0.5"/>
+  <text x="600" y="560" font-family="Georgia, serif" font-size="56" font-weight="700" fill="#f5ece0" text-anchor="middle">SkyLord</text>
+  <text x="600" y="600" font-family="Georgia, serif" font-size="24" fill="#c9793f" text-anchor="middle">Анархия нового поколения</text>
+</svg>
